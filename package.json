@@ -1,0 +1,28 @@
+{
+  "name": "nes-filter",
+  "version": "1.0.0",
+  "description": "Sequelize filtering, pagination, sort, and search function for Express server on NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saymenik/node-express-sequelize-listing.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "sequelize",
+    "pagination",
+    "sort",
+    "search",
+    "filter"
+  ],
+  "author": "Nik Lakhani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saymenik/node-express-sequelize-listing/issues"
+  },
+  "homepage": "https://github.com/saymenik/node-express-sequelize-listing#readme"
+}
