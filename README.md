@@ -5,7 +5,7 @@ Sequelize filtering, pagination, sort, and search middleware for Express Server 
 ## Installation
 
 ```
-npm install sq-filtering --save
+npm install nes-filter --save
 ```
 
 ## Features
